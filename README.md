@@ -1,2 +1,1 @@
-# README
-Empty Repo 1
+# Empty Repo 1
