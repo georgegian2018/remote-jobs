@@ -1,7 +1,6 @@
 # List of 40 Websites to Find Remote Jobs
 
 ![Markdown](https://img.shields.io/badge/Format-Markdown-blueviolet)
-![Format](https://img.shields.io/badge/Format-Markdown-blue.svg)
 ![Templates](https://img.shields.io/badge/Templates-Available-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Active%20Development-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
