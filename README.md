@@ -1,4 +1,4 @@
-# LIST OF 40 WEBSITES TO FIND REMOTE JOBS
+# List of 40 Websites to Find Remote Jobs
 
 ![Markdown](https://img.shields.io/badge/Format-Markdown-blueviolet)
 ![Format](https://img.shields.io/badge/Format-Markdown-blue.svg)
@@ -12,5 +12,5 @@
 
 
 
-
+I'm providing a list of 40 website to help people to find (remotely or not) jobs 
 
