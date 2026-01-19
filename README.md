@@ -16,7 +16,6 @@
 LIST OF 40 WEBSITES TO FIND REMOTE JOBS   
 
 1.	Linkedin.com
-
 2.	Indeed.com
 
 3.	Glassdoor.com
