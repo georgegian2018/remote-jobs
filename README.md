@@ -12,5 +12,6 @@
 
 
 
-I'm providing a list of 40 website to help people to find (remotely or not) jobs 
+This repo will be used to provide a list of 40 website to help people to find (remotely or not) jobs
+ 
 
