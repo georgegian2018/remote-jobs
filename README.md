@@ -56,7 +56,7 @@ The list includes platforms for **employment contracts**, **freelance work**, an
 
 > See the full list in the main document or below.
 
-(Insert your **40-website Markdown list here**)
+([The **40-website Markdown list here**](https://github.com/georgegian2018/remote-jobs/blob/main/remote-jobs.md))
 
 ---
 
