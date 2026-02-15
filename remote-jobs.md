@@ -33,8 +33,8 @@
 11. **Toptal**  
     https://www.toptal.com  
 
-12. **AngelList (Wellfound)**  
-    https://wellfound.com  
+12. **AngelList**  
+    https://www.angellist.com/
 
 13. **Hubstaff Talent**  
     https://talent.hubstaff.com  
@@ -119,3 +119,6 @@
 
 40. **Remote.co**  
     https://remote.co  
+
+41. **Wellfound**  
+    https://wellfound.com  
